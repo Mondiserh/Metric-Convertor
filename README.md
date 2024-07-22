@@ -93,5 +93,3 @@ Enter the number of feet:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to adjust or expand this README to better suit your needs!

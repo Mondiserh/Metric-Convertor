@@ -25,20 +25,19 @@ The Metric Converter is a simple Java application that converts between differen
 1. **Clone the Repository:**
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/Mondiserh/Metric-Convertor.git
    ```
 
 2. **Compile the Program:**
 
    ```bash
-   javac com/mycompany/metricconverter/Metricconverter.java
+   javac Metricconverter.java
    ```
 
 3. **Run the Program:**
 
    ```bash
-   java com.mycompany.metricconverter.Metricconverter
+   java Metricconverter
    ```
 
 ### Using the Program
@@ -82,7 +81,6 @@ Enter the number of feet:
 ## Notes
 
 - Ensure that you input valid numeric values.
-- For invalid choices, the program will notify you and prompt you to try again.
 
 ## Author
 
